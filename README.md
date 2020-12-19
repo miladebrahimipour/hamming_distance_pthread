@@ -1,6 +1,6 @@
 # hamming_distance
 
-In this project, I have implemented an algorithm to compute the minimum hamming distance of 32 bits integers. The project comes with an automatic test script written in python. First you need to make sure you have cloned this repository:
+In this project, I have implemented an algorithm to compute the minimum hamming distance of 32 bits integers. First you need to make sure you have cloned this repository:
 
     git clone https://github.com/miladebrahimipour/hamming_distance_pthread.git
     cd hamming_distance_pthread
