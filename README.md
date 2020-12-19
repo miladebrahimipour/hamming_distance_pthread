@@ -1,4 +1,4 @@
-# hamming_distance
+# hamming_distance_PThread
 
 In this project, I have implemented an algorithm to compute the minimum hamming distance of 32 bits integers. First you need to make sure you have cloned this repository:
 
